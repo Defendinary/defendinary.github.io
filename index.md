@@ -1,10 +1,3 @@
-<html>
-	<head>
-	</head>
+# Test
 
-	<body>
-		<p>Hi.</p>
-
-		<p>Test</p>
-	</body>
-</html>
+Hello. This is a test.
